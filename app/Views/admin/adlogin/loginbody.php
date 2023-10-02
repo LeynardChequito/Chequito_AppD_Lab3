@@ -26,7 +26,7 @@
                             <a href="/register" class="login-link">Don't have account?</a>
                             <div class="mdl-layout-spacer"></div>
                             <!-- Use a <button> element for form submission -->
-                            <button type="submit" class="mdl-button mdl-js-button mdl-button--raised color--light-blue">
+                            <button type="submit" href="/ecommerce.php" class="mdl-button mdl-js-button mdl-button--raised color--light-blue">
                                 SIGN IN
                             </button>
                         </form>
